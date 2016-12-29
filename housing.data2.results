@@ -1,0 +1,2 @@
+ID	BoostingDelay	GradientShrinkage	TreeHeight	TreesTotal	BaggingPart	ThresholdsCount	RSMPart	Features	NoiseDeletePart	StopByTestError	TestPart	FilterErrors	WeightTrimming	AllowedFeatures	LearnError	TestError	LearnErrorRelStd	TestErrorRelStd	LearnQuality	TestQuality	Length	Time
+0	25	1	10	1	1	32	1	0	1.50933e-317	1	0.25	0	0	0000000000111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111	587.205	606.894	0	0	6.90551e-310	606.894	1	0.01
